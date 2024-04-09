@@ -1,0 +1,7 @@
+João Batista:DENTISTA:1001
+Carlos Augusto:CLINICO:1002
+Alvaro Correa da Silva:DENTISTA:2001
+Carolina Klinks:OBSTETRA:2002
+Joana Augusta da Silva:DENTISTA:2004
+Antonio Machado:ADVOGADO:4001
+Ana Marques:PSICOLOGA:4002
